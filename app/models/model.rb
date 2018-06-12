@@ -1,7 +1,7 @@
 class Dog
   def initialize(name, breed, age)
     @name = name
-    @breed = bread
+    @breed = breed
     @age = age
   end
 
